@@ -1,0 +1,14 @@
+{
+  "port": "Fonts-Main",
+  "name": "13.0.6",
+  "version": "0.17.0",
+  "architectures": ["x86_64"],
+  "description": "GNU Unifont part of the GNU Project",
+  "website": "https://unifoundry.com/unifont/",
+  "downloadLinks": ["https://unifoundry.com/pub/unifont/unifont-13.0.06/font-builds/unifont-13.0.06.pcf.gz"],
+  "md5sums": ["4fbc33c8d8d25985f1bcdd4d28bc2420"],
+  "patchesLinks": [],
+  "installedFiles": [],
+  "dependencies": [],
+  "options": []
+}
