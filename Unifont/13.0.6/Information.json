@@ -1,7 +1,7 @@
 {
   "port": "Fonts-Main",
-  "name": "13.0.6",
-  "version": "0.17.0",
+  "name": "Unifont",
+  "version": "13.0.6",
   "architectures": ["x86_64"],
   "description": "GNU Unifont part of the GNU Project",
   "website": "https://unifoundry.com/unifont/",
