@@ -1,0 +1,14 @@
+{
+  "port": "Fonts-Main",
+  "name": "Font-Adobe-Utopia-Type1",
+  "version": "1.0.4",
+  "architectures": ["x86_64"],
+  "description": "X.org adobe utopia type1 font",
+  "website": "https://www.x.org",
+  "downloadLinks": ["https://www.x.org/archive//individual/font/font-adobe-utopia-type1-1.0.4.tar.bz2"],
+  "md5sums": ["fcf24554c348df3c689b91596d7f9971"],
+  "patchesLinks": [],
+  "installedFiles": [],
+  "dependencies": [],
+  "options": []
+}

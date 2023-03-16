@@ -1,0 +1,14 @@
+{
+  "port": "Fonts-Main",
+  "name": "Font-Misc-Ethiopic",
+  "version": "1.0.4",
+  "architectures": ["x86_64"],
+  "description": "X.org misc ethiopic font",
+  "website": "https://www.x.org",
+  "downloadLinks": ["https://www.x.org/archive//individual/font/font-misc-ethiopic-1.0.4.tar.bz2"],
+  "md5sums": ["4ee18ab6c1edf636b8e75b73e6037371"],
+  "patchesLinks": [],
+  "installedFiles": [],
+  "dependencies": [],
+  "options": []
+}
