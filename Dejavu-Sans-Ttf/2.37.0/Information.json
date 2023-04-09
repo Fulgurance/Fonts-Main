@@ -1,0 +1,14 @@
+{
+  "port": "Fonts-Main",
+  "name": "Dejavu-Sans-Ttf",
+  "version": "2.37.0",
+  "architectures": ["x86_64"],
+  "description": "Font family based upon Bitstream Vera sans ttf",
+  "website": "https://github.com/dejavu-fonts/dejavu-fonts",
+  "downloadLinks": ["https://github.com/dejavu-fonts/dejavu-fonts/releases/download/version_2_37/dejavu-sans-ttf-2.37.zip"],
+  "md5sums": ["5dc303a8045e3939b2ad283516cc7832"],
+  "patchesLinks": [],
+  "installedFiles": [],
+  "dependencies": [],
+  "options": []
+}

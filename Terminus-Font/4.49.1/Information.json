@@ -1,0 +1,35 @@
+{
+  "port": "Fonts-Main",
+  "name": "Terminus-Font",
+  "version": "4.49.1",
+  "architectures": ["x86_64"],
+  "description": "Monospaced font designed for long work with computers",
+  "website": "https://terminus-font.sourceforge.net/",
+  "downloadLinks": ["https://sourceforge.net/projects/terminus-font/files/terminus-font-4.49/terminus-font-4.49.1.tar.gz"],
+  "md5sums": ["1b6acbd221957e33c8a792ebfaf3a659"],
+  "patchesLinks": [],
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "Python",
+      "version": ">=3.5.0",
+      "options": []
+    }
+  ],
+  "options": [
+    {
+      "name": "Bdftopcf",
+      "description": "Enable bdftopcf support to add terminus font for X session",
+      "active": false,
+      "dependencies": [
+        {
+          "name": "Bdftopcf",
+          "version": "1.1.0",
+          "options": []
+        }
+      ],
+      "downloadLinks": [],
+      "md5sums": []
+    }
+  ]
+}

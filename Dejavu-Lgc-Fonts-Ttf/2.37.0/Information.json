@@ -1,0 +1,14 @@
+{
+  "port": "Fonts-Main",
+  "name": "Dejavu-Lgc-Fonts-Ttf",
+  "version": "2.37.0",
+  "architectures": ["x86_64"],
+  "description": "Font family based upon Bitstream Vera with TTF (Lgc)",
+  "website": "https://github.com/dejavu-fonts/dejavu-fonts",
+  "downloadLinks": ["https://github.com/dejavu-fonts/dejavu-fonts/releases/download/version_2_37/dejavu-lgc-fonts-ttf-2.37.tar.bz2"],
+  "md5sums": ["41e9905470956bf74d238b76738d723f"],
+  "patchesLinks": [],
+  "installedFiles": [],
+  "dependencies": [],
+  "options": []
+}
