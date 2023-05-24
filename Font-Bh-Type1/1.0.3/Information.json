@@ -5,9 +5,6 @@
   "architectures": ["x86_64"],
   "description": "X.org bh type1 font",
   "website": "https://www.x.org",
-  "downloadLinks": ["https://www.x.org/archive//individual/font/font-bh-type1-1.0.3.tar.bz2"],
-  "md5sums": ["53ed9a42388b7ebb689bdfc374f96a22"],
-  "patchesLinks": [],
   "installedFiles": [],
   "dependencies": [
     {

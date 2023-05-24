@@ -5,9 +5,6 @@
   "architectures": ["x86_64"],
   "description": "X.org alias font",
   "website": "https://www.x.org",
-  "downloadLinks": ["https://www.x.org/archive//individual/font/font-alias-1.0.4.tar.bz2"],
-  "md5sums": ["0497de0176a0dfa5fac2b0552a4cf380"],
-  "patchesLinks": [],
   "installedFiles": [],
   "dependencies": [
     {

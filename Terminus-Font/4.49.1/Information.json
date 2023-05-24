@@ -5,9 +5,6 @@
   "architectures": ["x86_64"],
   "description": "Monospaced font designed for long work with computers",
   "website": "https://terminus-font.sourceforge.net/",
-  "downloadLinks": ["https://sourceforge.net/projects/terminus-font/files/terminus-font-4.49/terminus-font-4.49.1.tar.gz"],
-  "md5sums": ["1b6acbd221957e33c8a792ebfaf3a659"],
-  "patchesLinks": [],
   "installedFiles": [],
   "dependencies": [
     {
@@ -28,8 +25,6 @@
           "options": []
         }
       ],
-      "downloadLinks": [],
-      "md5sums": []
     }
   ]
 }
