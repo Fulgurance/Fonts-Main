@@ -5,7 +5,7 @@ class Target < ISM::Software
 
         makeDirectory("#{builtSoftwareDirectoryPath(false)}#{Ism.settings.rootPath}usr/share/fonts/unifont")
 
-        copyFile("#{buildDirectoryPath(false)}/unifont-13.0.06.pcf","#{builtSoftwareDirectoryPath(false)}#{Ism.settings.rootPath}usr/share/fonts/unifont/unifont.pcf")
+        copyFile("#{buildDirectoryPath(false)}/Unifont-13.0.06.pcf","#{builtSoftwareDirectoryPath(false)}#{Ism.settings.rootPath}usr/share/fonts/unifont/unifont.pcf")
     end
 
 end
