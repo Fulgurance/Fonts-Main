@@ -1,11 +1,5 @@
 class Target < ISM::Software
 
-    def extract
-    end
-
-    def prepare
-    end
-
     def prepareInstallation
         super
 
