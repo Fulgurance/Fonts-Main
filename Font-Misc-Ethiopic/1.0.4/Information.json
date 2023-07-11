@@ -2,7 +2,9 @@
   "port": "Fonts-Main",
   "name": "Font-Misc-Ethiopic",
   "version": "1.0.4",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "X.org misc ethiopic font",
   "website": "https://www.x.org",
   "installedFiles": [],

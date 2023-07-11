@@ -2,7 +2,9 @@
   "port": "Fonts-Main",
   "name": "Encodings",
   "version": "1.0.5",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "X.org encodings font",
   "website": "https://www.x.org",
   "installedFiles": [],

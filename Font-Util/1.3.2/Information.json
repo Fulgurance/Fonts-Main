@@ -2,7 +2,9 @@
   "port": "Fonts-Main",
   "name": "Font-Util",
   "version": "1.3.2",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "X.org util font",
   "website": "https://www.x.org",
   "installedFiles": [],

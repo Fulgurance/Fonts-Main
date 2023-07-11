@@ -2,7 +2,9 @@
   "port": "Fonts-Main",
   "name": "Font-Bh-Ttf",
   "version": "1.0.3",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "X.org bh ttf font",
   "website": "https://www.x.org",
   "installedFiles": [],

@@ -2,7 +2,9 @@
   "port": "Fonts-Main",
   "name": "Terminus-Font",
   "version": "4.49.1",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "Monospaced font designed for long work with computers",
   "website": "https://terminus-font.sourceforge.net/",
   "installedFiles": [],
@@ -25,7 +27,8 @@
           "version": "1.1.0",
           "options": []
         }
-      ]
+      ],
+      "kernelDependencies": []
     }
   ]
 }

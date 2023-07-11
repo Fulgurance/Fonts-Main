@@ -2,7 +2,9 @@
   "port": "Fonts-Main",
   "name": "Font-Alias",
   "version": "1.0.4",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "X.org alias font",
   "website": "https://www.x.org",
   "installedFiles": [],

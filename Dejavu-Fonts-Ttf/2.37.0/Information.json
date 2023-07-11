@@ -2,7 +2,9 @@
   "port": "Fonts-Main",
   "name": "Dejavu-Fonts-Ttf",
   "version": "2.37.0",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "Font family based upon Bitstream Vera with TTF",
   "website": "https://github.com/dejavu-fonts/dejavu-fonts",
   "installedFiles": [],

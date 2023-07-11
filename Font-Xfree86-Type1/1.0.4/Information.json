@@ -2,7 +2,9 @@
   "port": "Fonts-Main",
   "name": "Font-Xfree86-Type1",
   "version": "1.0.4",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "X.org xfree86 type1 font",
   "website": "https://www.x.org",
   "installedFiles": [],
