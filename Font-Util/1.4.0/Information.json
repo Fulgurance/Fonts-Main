@@ -1,0 +1,21 @@
+{
+  "port": "Fonts-Main",
+  "name": "Font-Util",
+  "version": "1.4.0",
+  "architectures": [
+    "x86_64"
+  ],
+  "description": "X.org util font",
+  "website": "https://www.x.org",
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "SystemBase",
+      "version": "0.2.0",
+      "options": []
+    }
+  ],
+  "kernelDependencies": [],
+  "options": [],
+  "uniqueOptions": []
+}

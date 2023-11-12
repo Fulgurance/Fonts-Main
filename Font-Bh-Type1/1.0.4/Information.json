@@ -1,0 +1,21 @@
+{
+  "port": "Fonts-Main",
+  "name": "Font-Bh-Type1",
+  "version": "1.0.4",
+  "architectures": [
+    "x86_64"
+  ],
+  "description": "X.org bh type1 font",
+  "website": "https://www.x.org",
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "SystemBase",
+      "version": "0.2.0",
+      "options": []
+    }
+  ],
+  "kernelDependencies": [],
+  "options": [],
+  "uniqueOptions": []
+}
