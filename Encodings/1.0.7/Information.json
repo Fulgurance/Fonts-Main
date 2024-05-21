@@ -2,16 +2,15 @@
   "port": "Fonts-Main",
   "name": "Encodings",
   "version": "1.0.7",
-  "architectures": [
-    "x86_64"
-  ],
+  "architectures": ["x86_64"],
   "description": "X.org encodings font",
   "website": "https://www.x.org",
   "installedFiles": [],
   "dependencies": [
     {
+      "port": "SystemBase-Main",
       "name": "SystemBase",
-      "version": "0.2.0",
+      "version": ">=0.2.0",
       "options": []
     }
   ],

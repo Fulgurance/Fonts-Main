@@ -2,16 +2,15 @@
   "port": "Fonts-Main",
   "name": "Font-Xfree86-Type1",
   "version": "1.0.5",
-  "architectures": [
-    "x86_64"
-  ],
+  "architectures": ["x86_64"],
   "description": "X.org xfree86 type1 font",
   "website": "https://www.x.org",
   "installedFiles": [],
   "dependencies": [
     {
+      "port": "SystemBase-Main",
       "name": "SystemBase",
-      "version": "0.2.0",
+      "version": ">=0.2.0",
       "options": []
     }
   ],
