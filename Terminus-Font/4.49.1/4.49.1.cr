@@ -10,13 +10,14 @@ class Target < ISM::Software
     def build
         super
 
-        makeSource(path: buildDirectoryPath)
+        makeSource( arguments:  "otb",
+                    path: buildDirectoryPath)
     end
 
     def prepareInstallation
         super
 
-        makeSource( arguments:  "DESTDIR=#{builtSoftwareDirectoryPath}#{Ism.settings.rootPath} install fontdir",
+        makeSource( arguments:  "DESTDIR=#{builtSoftwareDirectoryPath}#{Ism.settings.rootPath} install-otb install fontdir",
                     path:       buildDirectoryPath)
     end
 
