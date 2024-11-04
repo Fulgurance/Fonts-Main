@@ -1,0 +1,23 @@
+{
+  "port": "Fonts-Main",
+  "name": "Unifont",
+  "version": "16.0.1",
+  "architectures": ["x86_64"],
+  "description": "GNU Unifont part of the GNU Project",
+  "website": "https://unifoundry.com/unifont/",
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "port": "SystemBase-Main",
+      "name": "SystemBase",
+      "version": ">=0.2.0",
+      "options": []
+    }
+  ],
+  "kernelDependencies": [],
+  "options": [],
+  "uniqueDependencies": [],
+  "uniqueOptions": [],
+  "selectedDependencies": [],
+  "allowCodependencies": []
+}
