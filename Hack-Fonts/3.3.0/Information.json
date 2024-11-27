@@ -1,0 +1,23 @@
+{
+  "port": "Fonts-Main",
+  "name": "Hack-Fonts",
+  "version": "3.3.0",
+  "architectures": ["x86_64"],
+  "description": "A typeface designed for source code",
+  "website": "https://github.com/source-foundry/Hack",
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "port": "SystemBase-Main",
+      "name": "SystemBase",
+      "version": ">=0.2.0",
+      "options": []
+    }
+  ],
+  "kernelDependencies": [],
+  "options": [],
+  "uniqueDependencies": [],
+  "uniqueOptions": [],
+  "selectedDependencies": [],
+  "allowCodependencies": []
+}

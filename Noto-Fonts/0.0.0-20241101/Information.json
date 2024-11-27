@@ -1,0 +1,23 @@
+{
+  "port": "Fonts-Main",
+  "name": "Noto-Fonts",
+  "version": "0.0.0-20241101",
+  "architectures": ["x86_64"],
+  "description": "Collection of high-quality fonts with multiple weights and widths in sans, serif, mono, and other styles, in more than 1,000 languages and over 150 writing systems",
+  "website": "https://github.com/notofonts/notofonts.github.io",
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "port": "SystemBase-Main",
+      "name": "SystemBase",
+      "version": ">=0.2.0",
+      "options": []
+    }
+  ],
+  "kernelDependencies": [],
+  "options": [],
+  "uniqueDependencies": [],
+  "uniqueOptions": [],
+  "selectedDependencies": [],
+  "allowCodependencies": []
+}
