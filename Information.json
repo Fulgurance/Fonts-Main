@@ -2,6 +2,5 @@
   "name": "Fonts-Main",
   "url": "https://github.com/Fulgurance/Fonts-Main",
   "publicKeyUrl": "http://www.slashlinux.io/keyring/Fulgurance.key",
-  "type": "Git",
   "description": "Port that contain all fonts"
 }
