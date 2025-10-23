@@ -1,0 +1,19 @@
+PORT
+    Fonts-Main
+NAME
+    Dejavu-Sans-Ttf
+VERSION
+    2.37.0
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Font family based upon Bitstream Vera sans ttf
+WEBSITE
+    https://github.com/dejavu-fonts/dejavu-fonts
+DEPENDENCIES
+        @SystemBase-Main:SystemBase>=0.2.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

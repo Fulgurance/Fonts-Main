@@ -1,0 +1,19 @@
+PORT
+    Fonts-Main
+NAME
+    Font-Alias
+VERSION
+    1.0.5
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    X.org alias font
+WEBSITE
+    https://www.x.org
+DEPENDENCIES
+        @SystemBase-Main:SystemBase>=0.2.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

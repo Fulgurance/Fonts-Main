@@ -1,0 +1,19 @@
+PORT
+    Fonts-Main
+NAME
+    Font-Util
+VERSION
+    1.4.1
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    X.org util font
+WEBSITE
+    https://www.x.org
+DEPENDENCIES
+        @SystemBase-Main:SystemBase>=0.2.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

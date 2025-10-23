@@ -1,0 +1,19 @@
+PORT
+    Fonts-Main
+NAME
+    Unifont
+VERSION
+    13.0.6
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    GNU Unifont part of the GNU Project
+WEBSITE
+    https://unifoundry.com/unifont/
+DEPENDENCIES
+        @SystemBase-Main:SystemBase>=0.2.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES
