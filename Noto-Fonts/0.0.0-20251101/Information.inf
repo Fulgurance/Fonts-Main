@@ -1,0 +1,19 @@
+PORT
+    Fonts-Main
+NAME
+    Noto-Fonts
+VERSION
+    0.0.0-20251101
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Collection of high-quality fonts with multiple weights and widths in sans, serif, mono, and other styles, in more than 1,000 languages and over 150 writing systems
+WEBSITE
+    https://github.com/notofonts/notofonts.github.io
+DEPENDENCIES
+        @SystemBase-Main:SystemBase>=0.2.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES
