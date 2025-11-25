@@ -3,10 +3,9 @@ class Target < ISM::Software
     def prepareInstallation
         super
 
-        makeDirectory("#{builtSoftwareDirectoryPath}#{Ism.settings.rootPath}")
+        makeDirectory("#{builtSoftwareDirectoryPath}#{Ism.settings.rootPath}/usr/share/fonts/")
 
-        moveFile(   path:       "#{buildDirectoryPath}/usr",
-                    newPath: "#{builtSoftwareDirectoryPath}/#{Ism.settings.rootPath}/usr")
+        moveFile("#{mainWorkDirectoryPath}/fonts/*","#{builtSoftwareDirectoryPath}#{Ism.settings.rootPath}/usr/share/fonts/")
     end
 
 end
